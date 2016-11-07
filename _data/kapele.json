@@ -1,0 +1,69 @@
+[
+
+{
+	"name": "Lady Pank",
+	"IsNow": true,
+	"Price": 60
+},
+
+{
+	"name": "AC/DC",
+	"IsNow": true,
+	"Price": 450
+},
+
+{
+	"name": "Iron Maiden",
+	"IsNow": true,
+	"Price": 350
+},
+
+{
+	"name": "Dire Straits",
+	"IsNow": false,
+	"Price": 300
+},
+
+{
+	"name": "Budka Suflera",
+	"IsNow": false,
+	"Price": 120
+},
+
+{
+	"name": "Kiss",
+	"IsNow": true,
+	"Price": 280
+},
+
+{
+	"name": "The Police",
+	"IsNow": false,
+	"Price": 800
+},
+
+{
+	"name": "Black Sabbath",
+	"IsNow": true,
+	"Price": 300
+},
+
+{
+	"name": "Guns'n Roses",
+	"IsNow": true,
+	"Price": 500
+},
+
+{
+	"name": "Perfect",
+	"IsNow": true,
+	"Price": 50
+},
+
+{
+	"name": "Rolling Stones",
+	"IsNow": true,
+	"Price": 1000
+}
+
+]
