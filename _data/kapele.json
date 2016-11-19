@@ -3,66 +3,88 @@
 {
 	"name": "Lady Pank",
 	"IsNow": true,
+	"Rok": 1982,
+	"Kraj": "Polska",
 	"Price": 60
 },
 
 {
 	"name": "AC/DC",
 	"IsNow": true,
+	"Rok": 1974,
+	"Kraj": "Austarlia",
 	"Price": 450
 },
 
 {
 	"name": "Iron Maiden",
 	"IsNow": true,
+	"Rok": 1978,
+	"Kraj": "Anglia",
 	"Price": 350
 },
 
 {
 	"name": "Dire Straits",
 	"IsNow": false,
+	"Rok": 1981,
+	"Kraj": "USA",
 	"Price": 300
 },
 
 {
 	"name": "Budka Suflera",
 	"IsNow": false,
+	"Rok": 1975,
+	"Kraj": "Polska",
 	"Price": 120
 },
 
 {
 	"name": "Kiss",
 	"IsNow": true,
+	"Rok": 1971,
+	"Kraj": "USA",
 	"Price": 280
 },
 
 {
 	"name": "The Police",
 	"IsNow": false,
+	"Rok": 1982,
+	"Kraj": "Anglia",
 	"Price": 800
 },
 
 {
 	"name": "Black Sabbath",
 	"IsNow": true,
+	"Rok": 1971,
+	"Kraj": "Anglia",
 	"Price": 300
 },
 
 {
 	"name": "Guns'n Roses",
 	"IsNow": true,
+	"Rok": 1982,
+	"Kraj": "USA",
 	"Price": 500
 },
 
 {
 	"name": "Perfect",
 	"IsNow": true,
+	"Rok": 1976,
+	"Kraj": "Polska",
 	"Price": 50
 },
 
 {
 	"name": "Rolling Stones",
 	"IsNow": true,
+	"Rok": 1963,
+	"Kraj": "Anglia",
 	"Price": 1000
 }
 
